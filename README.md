@@ -27,10 +27,10 @@
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/download-file-management.git</code></pre>
+        <pre><code>git clone https://github.com/Dapa19/download-file-automation.git</code></pre>
     </li>
     <li>Navigate to the project directory:
-        <pre><code>cd download-file-management</code></pre>
+        <pre><code>cd download-file-automation</code></pre>
     </li>
     <li>Ensure you have Python 3 installed on your system. If not, download and install it from <a href="https://www.python.org/" target="_blank">Python's official website</a>.</li>
 </ol>
