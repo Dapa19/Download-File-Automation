@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Download File Management</h1>
+<h1>Download File Automation</h1>
 
 <p>This Python script automatically moves downloaded files to specific folders based on their file types. It is designed to help you organize your downloaded files by moving images, videos, and music files into designated directories.</p>
 
