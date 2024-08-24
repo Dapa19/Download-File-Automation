@@ -38,7 +38,7 @@
 <h2>Usage</h2>
 <ol>
     <li>Open the script in your preferred Python environment or run it directly from the command line:
-        <pre><code>python main.py</code></pre>
+        <pre><code>python Main.py</code></pre>
     </li>
     <li>Follow the on-screen instructions to choose the action you want to perform.
         <ul>
